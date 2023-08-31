@@ -1,0 +1,13 @@
+body {
+    max-width: 500px;
+}
+
+.images {
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+}
+
+title {
+    text-align: center;
+}
